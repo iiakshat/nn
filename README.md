@@ -108,7 +108,7 @@ Backpropagation
 
 ## Dataset
 
-The MNIST dataset is a collection of 28x28 pixel grayscale images of handwritten digits (0-9). It consists of a training set of 60,000 examples and a test set of 10,000 examples.
+The MNIST dataset is a collection of 28x28 pixel grayscale images of handwritten digits (0-9). It consists of a training set of 42,000 examples and a test set of 28,000 examples with 784 features (representing all 28*28 pixels).
 
 ## Approach
 
