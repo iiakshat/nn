@@ -117,8 +117,8 @@ The MNIST dataset is a collection of 28x28 pixel grayscale images of handwritten
 3. Implement forward propagation, activation functions (ReLU and Softmax), loss function (Cross-Entropy), and backpropagation.
 4. Initialize weights and biases.
 5. Train the neural network using gradient descent and backpropagation.
-6. Evaluate the performance of the trained model on the test dataset
-7. 
+6. Evaluate the performance of the trained model on the test dataset.
+   
 ## Tools
 
 - NumPy: For numerical computing and linear algebra operations.
